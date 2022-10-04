@@ -1,3 +1,4 @@
+weights/
 onnx_models/
 work_dirs_from3090a/
 work_dirs/
