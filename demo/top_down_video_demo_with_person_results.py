@@ -12,6 +12,7 @@ from mmpose.datasets import DatasetInfo
 
 import numpy as np
 import json
+import mmcv
 
 from collections import defaultdict
 
